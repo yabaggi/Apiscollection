@@ -1,7 +1,9 @@
 const CACHE_NAME = "apis-pwa-cache-v1";
 const OFFLINE_URLS = [
   "index.html",
-  "manifest.json"
+  "manifest.json",
+  "./icons/icon-192.png",
+  "./icons/icon-512.png"
 ];
 
 // Install event: cache app shell
